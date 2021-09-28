@@ -1,19 +1,9 @@
-# reaction-timer
+# This is a simple game to show the reaction time of the user...
+## To start:
+- Click the button: play 
+- When displaying the green block, click on it as fast as you can
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### There are 3 ranks based on the reaction time
+- Ninja Fingers 🐱‍👤
+- Rapid Reflexes 🦸🏻‍♂️
+- Snail pace...🐌
